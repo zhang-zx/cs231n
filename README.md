@@ -1,6 +1,6 @@
 # cs231n
 cs231n assignments
 
-all completed on Nov. 21,2016
+forked from [lightaime/cs231n](https://github.com/lightaime/cs231n)
 
-any questions please email to lightaime@gmail.com
+modified to fulfill the homework of cs231n 2017
